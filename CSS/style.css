@@ -33,6 +33,7 @@ header button {
   flex: auto;  
   filter: grayscale(0%);
   width: 100%;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 #wtt2019 {
