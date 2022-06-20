@@ -2,6 +2,7 @@
 A schematic representation of the South Western Railway service into London Waterloo
 
 This map uses data from the December 2019 and May 2022 Working Timetable (WTT) which is published bi-annually by Network Rail.
+View live version at https://thisisjt13.github.io/wessexpeakmap
 
 It shows all services arriving between 0800 and 0859 into London Waterloo in both of the aforementioned timetables. 
 
